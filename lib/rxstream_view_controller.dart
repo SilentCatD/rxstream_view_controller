@@ -1,4 +1,4 @@
-library rx_builder;
+library rxstream_view_controller;
 
 export 'src/rx_stream_builder.dart';
 export 'src/rx_stream_listener.dart';
