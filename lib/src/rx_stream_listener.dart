@@ -1,7 +1,7 @@
 import 'dart:async';
 
 import 'package:flutter/material.dart';
-import 'package:rx_builder/src/types.dart';
+import 'types.dart';
 
 class RxStreamListener<T> extends StatefulWidget {
   const RxStreamListener({

@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:nested/nested.dart';
-import 'package:rx_builder/src/types.dart';
+import 'types.dart';
 
 class ViewControllerProviderNotInScope implements Exception {
   ViewControllerProviderNotInScope(this.type);
